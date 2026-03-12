@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
- title: 'SEO praciong',
+ title: 'SEO pricing',
  description: 'SEO descripcion pracing',
  keywords: ['Test', 'Page contact', 'metadas']
 };
