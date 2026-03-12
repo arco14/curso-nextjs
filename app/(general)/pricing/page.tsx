@@ -1,15 +1,14 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
- title: 'SEO Contact',
- description: 'SEO descripcion contatco',
+ title: 'SEO praciong',
+ description: 'SEO descripcion pracing',
  keywords: ['Test', 'Page contact', 'metadas']
 };
-
-export default function ContactPage () {
+export default function PricingPage () {
     return (
         <>
-            <span>Contact</span>
+            <span className="text-7xl">Pricing</span>
         </>
     )
 }
